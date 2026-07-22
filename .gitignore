@@ -1,0 +1,15 @@
+# Hugo
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Local tooling / brainstorm
+.tools/
+.superpowers/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
